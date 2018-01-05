@@ -1,3 +1,9 @@
 @import url('css/bootstrap.css');
 @import url('css/bootstrap-rtl.css');
 @import url('css/font-awesome.css');
+
+.imgsize
+{
+	height: 200px;
+	width: 200px;
+}
