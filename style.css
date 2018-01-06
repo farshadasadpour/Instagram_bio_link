@@ -4,6 +4,7 @@
 
 .imgsize
 {
+	margin-top:10px;
 	height: 100px;
 	width: 100px;
 }
@@ -12,11 +13,18 @@
 	margin-top: 10px;
 	background: black;
 	height: 2px;
-	border-right: red 10px solid;
-	border-left: red 10px solid;
+	border-right: red 50px solid;
+	border-left: red 50px solid;
 }
 .btn_control
 {
 	margin-top:10px ;
 	margin-bottom: 10px
 }
+
+.imgcenter {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
