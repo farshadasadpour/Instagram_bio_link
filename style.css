@@ -4,6 +4,19 @@
 
 .imgsize
 {
-	height: 200px;
-	width: 200px;
+	height: 100px;
+	width: 100px;
+}
+.line
+{
+	margin-top: 10px;
+	background: black;
+	height: 2px;
+	border-right: red 10px solid;
+	border-left: red 10px solid;
+}
+.btn_control
+{
+	margin-top:10px ;
+	margin-bottom: 10px
 }
